@@ -92,5 +92,5 @@ nums = [8, 1, 2, 2, 3]
 
 ---
 
-Let me know if you'd like a version using brute-force or a follow-up optimization!
+
 
