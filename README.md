@@ -1,6 +1,5 @@
 ﻿# LeetCode-1365
 
-Sure — here’s a **line-by-line explanation** of your code for the LeetCode problem **“How Many Numbers Are Smaller Than the Current Number”**.
 
 ---
 
@@ -94,3 +93,4 @@ nums = [8, 1, 2, 2, 3]
 ---
 
 Let me know if you'd like a version using brute-force or a follow-up optimization!
+
